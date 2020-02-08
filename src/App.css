@@ -5,7 +5,7 @@
   align-items: center;
 }
 
-.buttons {
+.smallbuttons {
   margin: 15px 15px;
 }
 button {
@@ -14,4 +14,5 @@ button {
   /*   border: none; */
   background: #5c48d3;
   color: white;
+  font-size: 20px;
 }
